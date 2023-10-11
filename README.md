@@ -1,3 +1,3 @@
 # StudentAPI-New
 
-A Sprin boot API for iAttend
+A Spring boot API for iAttend
